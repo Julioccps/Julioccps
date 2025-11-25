@@ -6,7 +6,7 @@
 
 ### 💾 The Origin Story (Constraint-Driven Development)
 
-My journey into **Systems Programming** and **Compiler Design** wasn't born from abundance, but from limitation. I architected and built the foundations of my core projectsn**VanadiumOS** and the **What Language** on a machine that most would consider obsolete:
+My journey into **Systems Programming** and **Compiler Design** wasn't born from abundance, but from limitation. I architected and built the foundations of my core projects **VanadiumOS** and the **What Language** on a machine that most would consider obsolete:
 
 * **CPU:** Intel Celeron N4000 (1.1 GHz)
 * **RAM:** 4GB
