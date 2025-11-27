@@ -39,17 +39,34 @@ I specialize in talking to the machine without interpreters getting in the way.
 | :--- | :--- | :--- | :--- |
 | **Ignotus** | C, Vulkan | *In Development* | A Hard Sci-Fi Survival Horror game based on non-carbon biochemistry. |
 | **SbEngine** | C, Vulkan, GLFW | *Active* | A custom, high-performance game engine built from scratch for Ignotus. |
-| **VanadiumOS** | x86 Assembly | *Maintenance* | A 16-bit Real Mode Operating System written purely in Assembly. |
-| **WhatLang** | C, Assembly | *Active* | An esoteric, planned to achieve self-hosted status, programming language. |
+| **VanadiumOS** | x86 Assembly | *Maintenance* | A 16-bit Real Mode OS. Boots in **<100ms** on period-accurate hardware. |
+| **WhatLang** | C, Assembly | *Active* | A systems-oriented language designed for minimalism, on the path to self-hosting. |
 
 ---
 
-### 📊 Language Statistics
+### 🧠 Development Principles
 
+*   **Self-Hosting is the Ultimate Goal:** A tool isn't truly mastered until it can create itself.
+*   **Abstraction is a Leaky Faucet:** Understand the layer beneath the one you're working in.
+*   **Constraints Breed Creativity:** Given infinite resources, any fool can make something work.
+*   **Readability is for Humans, Performance is for the Metal:** The code must satisfy both.
+
+---
+
+### 📡 Open for Collaboration
+
+I'm always interested in connecting with fellow developers working on:
+- Compilers & Language Design
+- Game Engine Architecture
+- Bare-Metal & Embedded Systems
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julioccps&layout=compact&theme=gotham&hide=html,css,jupyter%20notebook&langs_count=6" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/julio-césar-carvalho-2b55b32ab" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
+### 📊 Profile Statistics
+  ![Julioccps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julioccps&hide=issues&theme=github_dark&show_icons=true)
 ---
 
 <div align="center">
