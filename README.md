@@ -66,7 +66,7 @@ I'm always interested in connecting with fellow developers working on:
 </div>
 
 ### 📊 Profile Statistics
-  ![Julioccps's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julioccps&hide=issues&theme=github_dark&show_icons=true)
+  ![Julioccps's GitHub stats](https://github-readme-stats-julioccps.vercel.app/api?username=Julioccps&theme=dark&show_icons=true)
 ---
 
 <div align="center">
