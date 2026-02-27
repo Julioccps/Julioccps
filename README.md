@@ -59,11 +59,6 @@ I'm always interested in connecting with fellow developers working on:
 - Compilers & Language Design
 - Game Engine Architecture
 - Bare-Metal & Embedded Systems
-<div align="center">
-  <a href="https://www.linkedin.com/in/julio-césar-carvalho-2b55b32ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
 
 ### 📊 Profile Statistics
   ![Julioccps's GitHub stats](https://github-readme-stats-julioccps.vercel.app/api?username=Julioccps&theme=dark&show_icons=true)
