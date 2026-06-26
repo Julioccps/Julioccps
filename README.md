@@ -4,6 +4,10 @@
 
 ---
 
+###  Have you seen my obtic?
+If not, please take a look, if you are in Windows, good luck, if not build it and try.
+[obtic](https://github.com/Julioccps/obtic)
+
 ### The Origin Story (Constraint-Driven Development)
 
 My journey into **Systems Programming** and **Compiler Design** wasn't born from abundance, but from limitation.
